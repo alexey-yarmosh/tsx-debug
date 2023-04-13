@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "sourceMap": true
+  },
+  "ts-node": {
+    "transpileOnly": true
+  },
+  "exclude": [
+    "node_modules",
+  ]
+}

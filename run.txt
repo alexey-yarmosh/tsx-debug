@@ -1,0 +1,1 @@
+docker build -t tsx-image . && docker run --rm -p 9229:9229 --name tsx tsx-image
